@@ -11,6 +11,7 @@ opencv4.1.0.25 <br>
     https://www.python.org/
 ## 安装git（可选）
 
+    官网地址
     https://git-scm.com/download/win
     
 ## 第二步打开命令窗口下载代码到本地
@@ -28,3 +29,7 @@ opencv4.1.0.25 <br>
     pip install --user imutils
     pip install --user pyserial
     
+## 第三步运行
+    
+    cd C:\Users\username\Desktop\opencv_tutorial
+    python ball_tracking.py
