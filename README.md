@@ -3,7 +3,7 @@
 实验环境： <br>
 window10 <br>
 python3 <br>
-opencv4.1 <br>
+opencv4.1。0.25 <br>
 
 ## 第一步打开命令窗口下载代码到本地
 ## clone repositories
