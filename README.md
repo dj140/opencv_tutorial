@@ -14,10 +14,17 @@ opencv4.1.0.25 <br>
     https://git-scm.com/download/win
     
 ## 第二步打开命令窗口下载代码到本地
+
+    C:
+    cd Desktop
+    
 ## clone repositories
 
     git clone https://github.com/dj140/opencv_tutorial.git
     
 ## 第二步安装相关的依赖包
-
-    pip install opencv-python
+    
+    pip install --user opencv-python
+    pip install --user imutils
+    pip install --user pyserial
+    
