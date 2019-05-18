@@ -33,3 +33,6 @@ opencv4.1.0.25 <br>
     
     cd C:\Users\username\Desktop\opencv_tutorial
     python ball_tracking.py
+
+参考链接 <br>
+https://pythonprogramming.net/color-filter-python-opencv-tutorial/?completed=/thresholding-image-analysis-python-opencv-tutorial/
