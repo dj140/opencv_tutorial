@@ -35,4 +35,5 @@ opencv4.1.0.25 <br>
     python ball_tracking.py
 
 参考链接 <br>
-https://pythonprogramming.net/color-filter-python-opencv-tutorial/?completed=/thresholding-image-analysis-python-opencv-tutorial/
+https://pythonprogramming.net/color-filter-python-opencv-tutorial/?completed=/thresholding-image-analysis-python-opencv-tutorial/ <br>
+https://www.lfd.uci.edu/~gohlke/pythonlibs/
